@@ -1,0 +1,10 @@
+Step-1 : go to the project folder by using cd command in your terminal
+Step-2 : type : python3 myserver.py
+	NB : if you dont have the updated version of python then you have to update the python in your computer
+
+Step-3 : type : python3 client.py
+
+Then the world is yours.!! do all possible operation and show the teacher.
+
+*** For making any change in Database or adding new row open data.dat file in a text editor and 
+	add your data by following previous input style.
